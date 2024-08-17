@@ -1,0 +1,117 @@
+Week: 1 Total Mileage: 17.0
+Monday: 3.0 miles easy
+Tuesday: ~2.5 miles hill repeats
+Wednesday: rest
+Thursday: 3.5 miles tempo
+Friday: 3.0 miles easy
+Saturday: 5.0 miles easy
+Sunday: rest
+
+Week: 2 Total Mileage: 19.5
+Monday: 3.5 miles easy
+Tuesday: ~3.0 miles hill repeats
+Wednesday: rest
+Thursday: 4.0 miles tempo
+Friday: 3.5 miles easy
+Saturday: 6.0 miles easy
+Sunday: rest
+
+Week: 3 Total Mileage: 22.5
+Monday: 4.0 miles easy
+Tuesday: ~3.0 miles hill repeats
+Wednesday: rest
+Thursday: 5.0 miles tempo
+Friday: 4.0 miles easy
+Saturday: 6.5 miles easy
+Sunday: rest
+
+Week: 4 Total Mileage: 26.0
+Monday: 4.5 miles easy
+Tuesday: ~3.5 miles hill repeats
+Wednesday: rest
+Thursday: 5.5 miles tempo
+Friday: 4.5 miles easy
+Saturday: 8.0 miles easy
+Sunday: rest
+
+Week: 5 Total Mileage: 30.0
+Monday: 5.0 miles easy
+Tuesday: ~4.0 miles hill repeats
+Wednesday: rest
+Thursday: 6.5 miles tempo
+Friday: 5.0 miles easy
+Saturday: 9.0 miles easy
+Sunday: rest
+
+Week: 6 Total Mileage: 34.5
+Monday: 6.0 miles easy
+Tuesday: ~5.0 miles hill repeats
+Wednesday: rest
+Thursday: 7.0 miles tempo
+Friday: 6.0 miles easy
+Saturday: 10.5 miles easy
+Sunday: rest
+
+Week: 7 Total Mileage: 39.5
+Monday: 7.0 miles easy
+Tuesday: ~5.5 miles hill repeats
+Wednesday: rest
+Thursday: 8.5 miles tempo
+Friday: 7.0 miles easy
+Saturday: 12.0 miles easy
+Sunday: rest
+
+Week: 8 Total Mileage: 45.5
+Monday: 8.0 miles easy
+Tuesday: ~6.5 miles hill repeats
+Wednesday: rest
+Thursday: 9.5 miles tempo
+Friday: 8.0 miles easy
+Saturday: 13.5 miles easy
+Sunday: rest
+
+Week: 9 Total Mileage: 52.5
+Monday: 9.0 miles easy
+Tuesday: ~7.5 miles hill repeats
+Wednesday: rest
+Thursday: 11.0 miles tempo
+Friday: 9.0 miles easy
+Saturday: 15.5 miles easy
+Sunday: rest
+
+Week: 10 Total Mileage: 60.0
+Monday: 10.5 miles easy
+Tuesday: ~8.5 miles hill repeats
+Wednesday: rest
+Thursday: 12.5 miles tempo
+Friday: 10.5 miles easy
+Saturday: 18.0 miles easy
+Sunday: rest
+
+Week: 11 Total Mileage: 69.0
+Monday: 12.0 miles easy
+Tuesday: ~9.5 miles hill repeats
+Wednesday: rest
+Thursday: 14.5 miles tempo
+Friday: 12.0 miles easy
+Saturday: 20.5 miles easy
+Sunday: rest
+
+Week: 12 Total Mileage: 79.5
+Monday: 14.0 miles easy
+Tuesday: ~11.0 miles hill repeats
+Wednesday: rest
+Thursday: 16.5 miles tempo
+Friday: 14.0 miles easy
+Saturday: 23.5 miles easy
+Sunday: rest
+
+Week: 13 Total Mileage: 91.5
+Monday: 16.0 miles easy
+Tuesday: ~13.0 miles hill repeats
+Wednesday: rest
+Thursday: 19.5 miles tempo
+Friday: 16.0 miles easy
+Saturday: 27.5 miles easy
+Sunday: rest
+
